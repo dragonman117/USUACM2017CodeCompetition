@@ -18,7 +18,7 @@ song (track):
 > - The word needs to be used more than any other word on that track.
 > - If two words in a track have the same usage count, note that:
 >   - A longer word is better than a short word
->   - A higher lexicographical value is better than a low one
+>   - A higher lexicographical (`'z' > 'a'`) value is better than a low one
 
 Think you can help get <sick rapper name> back on his game?
 
