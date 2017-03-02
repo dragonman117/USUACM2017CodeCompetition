@@ -2,7 +2,7 @@
 
 <sick rapper name> is feeling down about his latest record. Critics said that
 "while <sick rapper name>'s beats are slammin', his word diversity is quite
-lacking often leaving much to be desired." <sick rapper name> was devistated
+lacking often leaving much to be desired." <sick rapper name> was devastated
 at the news.
 
 <sick rapper name> has never taken criticism that well, but you've
@@ -13,11 +13,12 @@ analyzer?
 
 You need something that can read in an album and find the best word in each
 song (track):
->The word cannot be used in any other track in the album.
->The word needs to be used more than any other word on that track.
->If two words in a track have the same usage count, note that:
-> * A longer word is better than a short word
-> * A higher lexicographical value is better than a low one
+
+> - The word cannot be used in any other track in the album.
+> - The word needs to be used more than any other word on that track.
+> - If two words in a track have the same usage count, note that:
+>   - A longer word is better than a short word
+>   - A higher lexicographical value is better than a low one
 
 Think you can help get <sick rapper name> back on his game?
 
@@ -38,44 +39,44 @@ Think you can help get <sick rapper name> back on his game?
 - w is a lowercase string that only contains [a-z,\']
 
 ###Sample Input
-`3
-7
-do
-you
-see
-what
-i
-can
-see
-7
-don't
-you
-think
-you
-can
-do
-better
-8
-zebrafish
-are
-better
-than
-clownfish
-don't
-you
-think
-`
+
+    3
+    7
+    do
+    you
+    see
+    what
+    i
+    can
+    see
+    7
+    don't
+    you
+    think
+    you
+    can
+    do
+    better
+    8
+    zebrafish
+    are
+    better
+    than
+    clownfish
+    don't
+    you
+    think
+
 ###Sample Output
-`Track 0's best word is see
-Track 1 has no unique words
-Track 2's best word is zebrafish
-`
+
+    Track 0's best word is see
+    Track 1 has no unique words
+    Track 2's best word is zebrafish
 
 --------------------------------------
 ## Running test cases
 
-`dank_words.py` is written in python3. If you want to run a test case you
+`best_words.py` is written in python3. If you want to run a test case you
 can pipe the test case to the executable like so:
 
-`cat testCase0.txt | python3 best_words.py`
-
+    cat testCase0.txt | python3 best_words.py
