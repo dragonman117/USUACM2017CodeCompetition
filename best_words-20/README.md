@@ -1,11 +1,11 @@
 # Only the best words!
 
-<sick rapper name> is feeling down about his latest record. Critics said that
-"while <sick rapper name>'s beats are slammin', his word diversity is quite
-lacking often leaving much to be desired." <sick rapper name> was devastated
+`<sick rapper name>` is feeling down about his latest record. Critics said that
+"while `<sick rapper name>`'s beats are slammin', his word diversity is quite
+lacking often leaving much to be desired." `<sick rapper name>` was devastated
 at the news.
 
-<sick rapper name> has never taken criticism that well, but you've
+`<sick rapper name>` has never taken criticism that well, but you've
 never seen him so low before. His apartment is a mess with him moping around
 and spending most the day eating cereal and watching cable news. You decide
 it's time for a rapid change. Maybe you could help him out by writing a word
