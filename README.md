@@ -9,34 +9,37 @@ Each problem should have:
 - 4-6 test cases
 - a solution in at least two languages (C++, Python, or whatever)
 
-Put each problem in it's own folder named with following this example:
+Put each problem in it's own directory named with following conventions:
 
-`best_words-20`
+    snake_case_name-<difficulty level in minutes>
 
-is a problem named "Best Words" that has a difficulty of 20 minutes.
+For example, `best_words-20` is a problem named "Best Words" that has a
+difficulty of 20 minutes.
 
 --------------
 
 ### Running test cases
 
-To run a test case `testCase0.txt` on a solution, pipe the test case
-to the solution's executable:
+To run a test case on a solution, pipe the test case to the solution's
+executable:
 
 C++
+
     cat testCase0.txt | ./solution
 
 Python
+
     cat testCase0.txt | python solution.py
 
 ----------------
 
 ### Difficulty Scale
 
-With teams of 3 and 4 hours to code, to complete each problem each person
-on a team can spend no more than 36 minutes on each problem.
+With teams of 3 and 4 hours to code, only 36 minuetes can be spent on each
+problem to solve all 20 of them.
 
-Gauge difficulty in the estimated number of minutes that it would take
-one person to solve the question. For example:
+Gauge the difficulty of problems in the estimated number of minutes that
+it would take one person to solve the question. For example:
 
 > If a problem takes 25 minutes, it has a difficulty of 25
 
