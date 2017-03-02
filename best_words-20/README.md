@@ -26,9 +26,9 @@ Think you can help get <sick rapper name> back on his game?
 
 ## Input format
 
-1. The first line, `n`, is an integer of the number of tracks in the album
-2. The next line, `m`, is an integer of the number of words in a track.
-3. The next line, `w`, is a string of a word in the track.
+1. The first line `n` is an integer of the number of tracks in the album
+2. The next line `m` is an integer of the number of words in a track.
+3. The next line `w` is a string of a word in the track.
 4. Goto 3 until there are no more words in that song.
 5. Goto 2 until there are no more tracks.
 
