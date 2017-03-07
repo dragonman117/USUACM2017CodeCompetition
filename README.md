@@ -44,5 +44,6 @@ it would take one person to solve the question. For example:
 > If a problem takes 25 minutes, it has a difficulty of 25
 
 Time Estiments should be made under the assumption that a CS3 Student is attemtping the problem.
+
 _NOTE: We need to make sure we don't overestimate or underestimate difficulty_
 
