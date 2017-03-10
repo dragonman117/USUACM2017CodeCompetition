@@ -19,9 +19,6 @@ Can you help Baymax find out how many candybars he can get in different senarios
 3. `c` is the cost of the candybars (whole number)
 4. `m` is the number of bars to purchase to get one free
 
-	t
-	n c m
-
 ###Constraints
 - 1 < `t` < 1000
 - 2 < `n` < 10^5
