@@ -35,8 +35,8 @@ Python
 
 ### Difficulty Scale
 
-With teams of 3 and 4 hours to code, only 36 minuetes can be spent on each
-problem to solve all 20 of them.
+With 4 hours to code, only 12 minutes per team (36 person minutes with teams of 3)
+can be spent on each problem to solve all 20 of them.
 
 Gauge the difficulty of problems in the estimated number of minutes that
 it would take one person to solve the question. For example:
