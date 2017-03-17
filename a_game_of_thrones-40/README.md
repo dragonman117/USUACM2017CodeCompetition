@@ -1,20 +1,20 @@
-#A Game of Thrones
+# A Game of Thrones
 
 "When you play the game of thrones you win or you die" - George R.R. Martin
 
 You have started reading the Game of Thrones book series, yay! However, you ran into a little problem
 you are having trouble keeping track of who belongs to which faction as well as which factions 
-are all battling for the throne.
+are all battling for the throne. (Note: a faction is being defined as a leiege lord and who follows them, and a liege lord follows no one)
 
 You decide to write a program to help keep track of what is going on. You begin by entering all the 
 different characters names, you then enter each character name followed by who they follow/serve.
 Once you enter all the data it then reports how many different factions are fighting for the thone by saying 
-"There are x factions playing the game of thrones", and you can then ask who each person belongs to.
+"There are x factions playing the game of thrones", and you can then ask who each person belongs to. 
 
 
 ------------------------
 
-##Input Format
+## Input Format
 1. The first line is the number of charachters `c` you will enter
 2. The following lines are the names of the characters (one per line)
 3. The next line is the number of alligences `a` you will enter
@@ -27,7 +27,7 @@ Once you enter all the data it then reports how many different factions are figh
 - 1 < `a` < `c`
 - 1 < `i` < `c`
 
-###Sample Input
+### Sample Input
 	9
 	Tyrion Lannister
 	Jaime Lannister
