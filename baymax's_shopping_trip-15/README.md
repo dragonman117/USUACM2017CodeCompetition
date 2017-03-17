@@ -1,4 +1,4 @@
-#Baymax's Shopping Trip
+# Baymax's Shopping Trip
 
 Baymax has a problem, it is Hiro's birthday and he would like to get him his favorite candy bar.
 The local store is having a sale, where for every `n` candybars that Baymax buys he gets one free.
@@ -22,19 +22,19 @@ Can you help Baymax find out how many candybars he can get in different senarios
 	t
 	n c m
 
-###Constraints
+### Constraints
 - 1 < `t` < 1000
 - 2 < `n` < 10^5
 - 1 < `c` < n
 - 2 < `m` < n
 
-###Sample Input
+### Sample Input
 	3
 	10 2 2
 	9 2 3
 	20 3 5
 
-###Sample Output
+### Sample Output
 	8
 	5
 	7
