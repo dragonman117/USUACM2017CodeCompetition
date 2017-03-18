@@ -14,6 +14,11 @@ The first line contains two integers `w` (number of weeks) and `r` (hourly rate)
 Each of the next `w` lines contains 7 integers representing the number of hours worked
 during each day of a week, starting Monday.
 
+## Output Format
+
+Output the total compensation.
+
+
 ## Constraints
 - 1 < `w` < 10
 - 1 < `r` < 20
