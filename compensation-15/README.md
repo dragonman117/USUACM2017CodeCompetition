@@ -26,12 +26,16 @@ Output the total compensation, including two decimal places for the cents.
 
 ## Sample Input 1
 
+```
 1 12.75
 8 8 9 7 8 0 0
+```
 
 ## Sample Output 1
 
+```
 510.00
+```
 
 ## Explanation 1
 
@@ -40,12 +44,16 @@ The total number of hours is 40, so the total compensation is 12.75 * 40 = 510.0
 
 ## Sample Input 2
 
+```
 1 12.75
 8 8 9 7 8 1 0
+```
 
 ## Sample Output 2
 
+```
 529.13
+```
 
 ## Explanation 2
 
