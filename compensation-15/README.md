@@ -9,25 +9,48 @@ compensation for each day is rounded to the nearest cent.
 
 ## Input Format
 
-The first line contains two integers `w` (number of weeks) and `r` (hourly rate).
+The first line contains an integer `w` (number of weeks) and a decimal `r` (hourly rate).
 
 Each of the next `w` lines contains 7 integers representing the number of hours worked
 during each day of a week, starting Monday.
 
 ## Output Format
 
-Output the total compensation.
+Output the total compensation, including two decimal places for the cents.
 
 
 ## Constraints
 - 1 < `w` < 10
-- 1 < `r` < 20
+- 1.00 < `r` < 100.00
+
 
 ## Sample Input 1
 
+1 12.75
+8 8 9 7 8 0 0
+
 ## Sample Output 1
 
+510.00
+
 ## Explanation 1
+
+The total number of hours is 40, so the total compensation is 12.75 * 40 = 510.00.
+
+
+## Sample Input 2
+
+1 12.75
+8 8 9 7 8 1 0
+
+## Sample Output 2
+
+529.13
+
+## Explanation 2
+
+The total number of hours is 42, so two of the hours are paid at 150% percent of
+the hourly rate.
 
 
 ------------------------
