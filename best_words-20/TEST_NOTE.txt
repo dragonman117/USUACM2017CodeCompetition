@@ -1,0 +1,5 @@
+when I ran 1000000_testCase.txt it took my machine about 14 seconds which is too long, so that test case might be too big to put on hackerrank.
+
+All the others should execute in less than 4 seconds
+
+Except the lots_of_tracksTest.txt which has 100 tracks of size 20000
