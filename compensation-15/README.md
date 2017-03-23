@@ -4,8 +4,9 @@ Bitman is working to save money for his summer trip abroad. So far he has been k
 track of the time he has spent working on different days, but does not know how much
 money he has earned. Help him figure out the total compensation for the time worked.
 
-Time worked over 40 hours in a single week is paid at 150% of the hourly rate, and the
-compensation for each day is rounded to the nearest cent.
+Time worked during weekends and time worked over 40 hours during weekdays in a single
+week is paid at 150% of the hourly rate. The total compensation for all the time worked
+is rounded to the nearest cent.
 
 ## Input Format
 
@@ -57,8 +58,8 @@ The total number of hours is 40, so the total compensation is 12.75 * 40 = 510.0
 
 ## Explanation 2
 
-The total number of hours is 42, so two of the hours are paid at 150% percent of
-the hourly rate.
+The total number of hours is 41, and one the hours is paid at 150% percent of the
+hourly rate.
 
 
 ------------------------
