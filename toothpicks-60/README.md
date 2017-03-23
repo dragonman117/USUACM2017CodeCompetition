@@ -1,5 +1,9 @@
 # Toothpicks
 
+![3 squares of toothpicks](./move_3_toothpicks.png)
+
+![Toothpicks moved to make 5 squares](./moved_toothpicks.png)
+
 "When you play the game of thrones you win or you die" - George R.R. Martin
 
 You have started reading the Game of Thrones book series, yay! However, you ran into a little problem
