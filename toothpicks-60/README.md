@@ -1,59 +1,42 @@
 # Toothpicks
 
-"When you play the game of thrones you win or you die" - George R.R. Martin
+A waitress lays out 12 toothpicks as shown below:
 
-You have started reading the Game of Thrones book series, yay! However, you ran into a little problem
-you are having trouble keeping track of who belongs to which faction as well as which factions
-are all battling for the throne. (Note: a faction is being defined as a leiege lord and who follows them, and a liege lord follows no one)
+![3 squares of toothpicks](./move_3_toothpicks.png)
 
-You decide to write a program to help keep track of what is going on. You begin by entering all the
-different characters names, you then enter each character name followed by who they follow/serve.
-Once you enter all the data it then reports how many different factions are fighting for the thone by saying
-"There are x factions playing the game of thrones", and you can then ask who each person belongs to.
+And challenges you to create 5 squares by only moving 3 of the toothpicks.
+After some thinking you come to the following conclusion (where red toothpicks
+were moved to the blue spots).
 
+![Toothpicks moved to make 5 squares](./moved_toothpicks.png)
+
+Amazed at your cleverness, the waitress tests you again, "Okay, smartypants!
+How many toothpicks would you need to make a billion squares?!". You reply
+(somewhat condescendingly <jerk>), "I can do better than that. How about I write
+a program that can find the minimum number of toothpicks needed for any number
+of squares."
 
 ------------------------
 
 ## Input Format
-1. The first line is the number of charachters `c` you will enter
-2. The following lines are the names of the characters (one per line)
-3. The next line is the number of alligences `a` you will enter
-4. The following lines will be the name of the character followed by a comma, and the name of their alleginece
-5. The next line is the number of inqueries `i` that will be asked
-6. Following lines will be the name of the inquery made
+1. The first line is the number of test cases `t`
+2. The following lines are the number of squares `n`
 
 ### Constraints
-- 5 < `c` < 100000
-- 1 < `a` < `c`
-- 1 < `i` < `c`
+- 1 < `t` < 100
+- 1 < `n` < 10<sup>20</sup>
 
 ### Sample Input
-	9
-	Tyrion Lannister
-	Jaime Lannister
-	Cersei Lannister
-	Daenerys Targaryen
-	Jon Snow
-	Sansa Stark
-	Brienne of Tarth
-	Roose Bolton
-	Tywin Lannister
-	6
-	Tyrion Lannister, Daenerys Targaryen
-	Jaime Lannister, Cersei Lannister
-	Jon Snow, Sansa Stark
-	Brienne of Tarth, Sansa Stark
-	Roose Bolton, Tywin Lannister
-	Cersei Lannister, Tywin Lannister
+	5
+	1
+	2
+	3
 	4
-	Tyrion Lannister
-	Jon Snow
-	Sansa Stark
-	Jaime Lannister
+	5
 
-### Sample Ouptut
-	There are 3 factions playing the game of thrones
-	Daenerys Targaryen
-	Sansa Stark
-	Sansa Stark
-	Tywin Lannister
+### Sample Output
+	4
+	7
+	10
+	12
+	12
