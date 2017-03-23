@@ -1,0 +1,7 @@
+4 2
+apple
+car
+cat
+dog
+can
+aple
