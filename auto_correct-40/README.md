@@ -28,19 +28,20 @@ Each of the next `k` lines contains a word to check.
 ## Output Format
 
 For each word to be checked, output "YES" followed by the auto-correct word if the
-word is not in the dictionary and it can be auto corrected. Otherwise, output "NO",
-followed by any words with a distance <= 2 to the input word if the word is not in
-the dictionary (if there are multiple such words, output them in lexicographical
-order).
+word is not in the dictionary and it can be auto corrected. Output "NO", followed by
+any words with a distance <= 2 to the input word if the word is not in the dictionary
+(if there are multiple such words, output them in lexicographical order). Output
+"CORRECT" if the word is in the dictionary.
 
 
 ## Sample Input 1
 
 ```
-4 2
+4 3
 apple
 car
 cat
+dog
 dog
 can
 aple
@@ -49,11 +50,14 @@ aple
 ## Sample Output 1
 
 ```
+CORRECT
 NO car cat
 YES apple
 ```
 
 ## Explanation 1
+
+`dog` is in the dictionary, so it is a correct word.
 
 `can` cannot be auto corrected because its distance to both `car` and `cat` is 1.
 

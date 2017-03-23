@@ -27,7 +27,10 @@ class Solution {
                     }
                 }
             }
-            if (minDist <= 2 && suggestions.size() == 1) {
+            if (dictionary.contains(wordToCheck)) {
+                System.out.println("CORRECT");
+            }
+            else if (minDist <= 2 && suggestions.size() == 1) {
                 System.out.println("YES " + suggestions.get(0));
             }
             else {

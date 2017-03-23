@@ -1,2 +1,3 @@
+CORRECT
 NO car cat
 YES apple
