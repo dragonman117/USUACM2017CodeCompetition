@@ -4,7 +4,7 @@ A waitress lays out 12 toothpicks as shown below:
 
 ![3 squares of toothpicks](./move_3_toothpicks.png)
 
-And challenges you to create 5 squares by only moving 3 of the toothpicks.
+She challenges you to create 5 squares by moving only 3 of the toothpicks.
 After some thinking you come to the following solution (where red toothpicks
 were moved to the blue spots).
 
@@ -40,4 +40,3 @@ of squares."
 	10
 	12
 	12
-	
