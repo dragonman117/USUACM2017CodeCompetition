@@ -1,8 +1,8 @@
 4 3
 apple
-car
 cat
 dog
+car
 dog
 can
 aple

@@ -1,0 +1,21 @@
+10 10
+apple
+pineapple
+pear
+fruit
+mango
+banana
+peach
+plum
+grape
+juice
+apple
+pineapple
+pear
+fruit
+mango
+banana
+peach
+plum
+grape
+juice
