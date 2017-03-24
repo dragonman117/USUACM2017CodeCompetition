@@ -23,7 +23,6 @@ Each of the next `k` lines contains a word to check.
 ## Constraints
 - 1 <= `n` <= 1000
 - 1 <= `k` <= 100
-- The length of each word is at leat 1 and at most 100
 
 ## Output Format
 
@@ -39,9 +38,9 @@ any words with a distance <= 2 to the input word if the word is not in the dicti
 ```
 4 3
 apple
-car
 cat
 dog
+car
 dog
 can
 aple
@@ -64,3 +63,9 @@ YES apple
 `aple` has a typo and can be auto corrected by adding a `p`.
 
 ------------------------
+
+Data used for some of the test cases:
+- 1000 MOST COMMON WORDS IN ENGLISH
+  http://www.ef.edu/english-resources/english-vocabulary/top-1000-words/
+- TOP 100 MISSPELT WORDS IN ENGLISH
+  http://www.world-english.org/misspell.htm
