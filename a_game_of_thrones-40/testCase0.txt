@@ -8,13 +8,14 @@ Sansa Stark
 Brienne of Tarth
 Roose Bolton
 Tywin Lannister
-6
-Tyrion Lannister, Daenerys Targaryen
+7
+Tyrion Lannister, Tywin Lannister
 Jaime Lannister, Cersei Lannister
 Jon Snow, Sansa Stark
 Brienne of Tarth, Sansa Stark
 Roose Bolton, Tywin Lannister
 Cersei Lannister, Tywin Lannister
+Tyrion Lannister, Daenerys Targaryen
 4
 Tyrion Lannister
 Jon Snow

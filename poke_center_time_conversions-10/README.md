@@ -17,10 +17,10 @@ both 00:00:00 and 24:00:00 as 12:00:00 AM in the 12 hour notation.
 ## Input format
 
 1. The first line `n` is an integer for the number of times to read in and convert
-2. Following lines will be a 6 digit integer of the format hhmmss
+2. Following lines will be a 6 digit value of the format hhmmss
 
 ### Consraints
-- 0 < `n` < 4294967296
+- 0 < `n` < 245959
 
 ### Sample Input
 	10
