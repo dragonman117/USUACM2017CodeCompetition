@@ -6,7 +6,7 @@ plant is harmless; however, when a Euky and Algy cross pollinate,
 a monstrous plant is formed (the unspeakable horrors of which has rendered entire regions
 completely inhospitable).
 
-<img src="http://1.bp.blogspot.com/_NLbk7actvks/S9gMHrc8lrI/AAAAAAAAAfY/EfCgjQY840U/s1600/Predatory+Vine+2.jpg" alt="The monstrous Eugorythm Plant" height="350"/>
+<img src="http://1.bp.blogspot.com/_NLbk7actvks/S9gMHrc8lrI/AAAAAAAAAfY/EfCgjQY840U/s1600/Predatory+Vine+2.jpg" alt="The monstrous Eugorythm Plant" height="30%"/>
 
 To clarify:
 
