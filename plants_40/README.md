@@ -34,7 +34,7 @@ needed to produce the target yield?
 
 ------------
 
-### Input
+### Input Format
 
 - the allotted number of Algy pods `a`
 - the allotted number of Euky pods `e`
@@ -46,7 +46,40 @@ needed to produce the target yield?
 - 1 <= `a` <= `b` < 10<sup>15</sup>
 - 1 <= `e` <= `f` < 10<sup>15</sup>
 
-### Output
+### Output Format
 
 - The number of growth cycles needed
 - -1 if it's impossible to produce the exact target yield with the allotted pods
+
+### Sample Input 0
+
+    1
+    1
+    10
+    3
+
+### Sample Output 0
+
+    5
+
+### Explanation 0
+
+- 2 growth cycles of Algys
+- followed by 3 growth cycles of Eukys
+- 2 + 3 = 5
+
+### Sample Input 1
+
+    1
+    1
+    10
+    3
+
+### Sample Output 1
+
+    -1
+
+### Explanation 1
+
+There's no pattern of growth cycles that could turn 2 Algys and 3 Eukys into
+6 Algys and 5 Eukys without destoying some pods.
