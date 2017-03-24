@@ -4,7 +4,8 @@
 
 You have started reading the Game of Thrones book series, yay! However, you ran into a little problem
 you are having trouble keeping track of who belongs to which faction as well as which factions 
-are all battling for the throne. (Note: a faction is being defined as a leiege lord and who follows them, and a liege lord follows no one)
+are all battling for the throne. (Note: a faction is being defined as a leiege lord and who follows them, 
+and a liege lord follows no one and any individual can only follow one liege lord at a time)
 
 You decide to write a program to help keep track of what is going on. You begin by entering all the 
 different characters names, you then enter each character name followed by who they follow/serve.
@@ -37,14 +38,15 @@ Once you enter all the data it then reports how many different factions are figh
 	Sansa Stark
 	Brienne of Tarth
 	Roose Bolton
-	Tywin Lannister	
-	6
-	Tyrion Lannister, Daenerys Targaryen
+	Tywin Lannister
+	7
+	Tyrion Lannister, Tywin Lannister
 	Jaime Lannister, Cersei Lannister
 	Jon Snow, Sansa Stark
 	Brienne of Tarth, Sansa Stark
 	Roose Bolton, Tywin Lannister
 	Cersei Lannister, Tywin Lannister
+	Tyrion Lannister, Daenerys Targaryen
 	4
 	Tyrion Lannister
 	Jon Snow
