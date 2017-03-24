@@ -6,6 +6,8 @@ plant is harmless; however, when a Euky and Algy cross pollinate,
 a monstrous plant is formed (the unspeakable horrors of which has rendered entire regions
 completely inhospitable).
 
+![The monstrous Eugorythm Plant](http://1.bp.blogspot.com/_NLbk7actvks/S9gMHrc8lrI/AAAAAAAAAfY/EfCgjQY840U/s1600/Predatory+Vine+2.jpg)
+
 To clarify:
 
 - When 1 Algy pod dies, it asexually produces 1 Algy pod and 1 Euky pod
