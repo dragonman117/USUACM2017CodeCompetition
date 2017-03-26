@@ -31,6 +31,10 @@ Python
 
     cat testCase0.txt | python solution.py
 
+Java
+
+    cat testCase0.txt | java Solution
+
 ----------------
 
 ### Difficulty Scale

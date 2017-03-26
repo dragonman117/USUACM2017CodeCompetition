@@ -32,13 +32,13 @@ Think you can help get <sick rapper name> back on his game?
 4. Goto 3 until there are no more words in that song.
 5. Goto 2 until there are no more tracks.
 
-###Constraints
+### Constraints
 
 - 2 <= n <= 20
 - 2 <= m <= 700
 - w is a lowercase string that only contains [a-z,\']
 
-###Sample Input
+### Sample Input
 
     3
     7
@@ -67,7 +67,7 @@ Think you can help get <sick rapper name> back on his game?
     you
     think
 
-###Sample Output
+### Sample Output
 
     Track 0's best word is see
     Track 1 has no unique words
