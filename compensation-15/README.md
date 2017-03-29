@@ -58,7 +58,7 @@ The total number of hours is 40, so the total compensation is 12.75 * 40 = 510.0
 
 ## Explanation 2
 
-The total number of hours is 41, and one the hours is paid at 150% percent of the
+The total number of hours is 41, and one of the hours is paid at 150% percent of the
 hourly rate.
 
 
