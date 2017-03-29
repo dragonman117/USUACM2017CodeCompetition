@@ -1,8 +1,0 @@
-4 3
-apple
-cat
-dog
-car
-dog
-can
-aple

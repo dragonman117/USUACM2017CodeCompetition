@@ -1,0 +1,23 @@
+9
+Tyrion Lannister
+Jaime Lannister
+Cersei Lannister
+Daenerys Targaryen
+Jon Snow
+Sansa Stark
+Brienne of Tarth
+Roose Bolton
+Tywin Lannister
+7
+Tyrion Lannister, Tywin Lannister
+Jaime Lannister, Cersei Lannister
+Jon Snow, Sansa Stark
+Brienne of Tarth, Sansa Stark
+Roose Bolton, Tywin Lannister
+Cersei Lannister, Tywin Lannister
+Tyrion Lannister, Daenerys Targaryen
+4
+Tyrion Lannister
+Jon Snow
+Sansa Stark
+Jaime Lannister
