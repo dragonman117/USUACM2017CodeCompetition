@@ -16,17 +16,7 @@ def intput():
     return int(input())
 
 if __name__ == "__main__":
-    pods = (intput(), intput());
-    target = (intput(), intput());
-    print(answer(pods[0], pods[1], target[0], target[1], 0))
+    for _ in range(int(input())):
+        a, e, b, f = map(int, input().split())
+        print(answer(a, e, b, f, 0))
 
-# def brute_test(pods, target, expected):
-#     result = answer(pods[0], pods[1], target[0], target[1], 0)
-#     if not result == expected:
-#         print("Test Failed: expected=", expected, " but got=", result)
-#
-# brute_test((1, 1), (3, 10), 5)
-# brute_test((2, 2), (3, 10), -1)
-# brute_test((2, 2), (3, 10), -1)
-# # brute_test((2, 2), (10**10 - 1, 10**10), -1)
-# brute_test((2, 2), (4, 10), 3)
