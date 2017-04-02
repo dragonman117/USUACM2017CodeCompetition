@@ -12,25 +12,17 @@ class Solution {
 
         while (k-- > 0) {
             String wordToCheck = sc.next();
-            int minDist = Integer.MAX_VALUE;
             List<String> suggestions = new ArrayList<>();
             if (!dictionary.contains(wordToCheck)) {
                 for (String dictWord : dictionary) {
-                    int dist = distance(wordToCheck, dictWord);
-                    if (dist < minDist && dist <= 2) {
-                        minDist = dist;
-                        suggestions.clear();
+                    if (distance(wordToCheck, dictWord) <= 2)
                         suggestions.add(dictWord);
-                    }
-                    else if (dist == minDist) {
-                        suggestions.add(dictWord);
-                    }
                 }
             }
             if (dictionary.contains(wordToCheck)) {
                 System.out.println("CORRECT");
             }
-            else if (minDist <= 2 && suggestions.size() == 1) {
+            else if (suggestions.size() == 1) {
                 System.out.println("YES " + suggestions.get(0));
             }
             else {
