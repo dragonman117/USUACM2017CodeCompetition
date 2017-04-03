@@ -1,0 +1,43 @@
+
+Score changes:
+----------------------------------------------------------------------
+User            Diff    Old rank    Old score   New rank    New score
+----------------------------------------------------------------------
+dustin_e_homan  +15     24          155.00      22          170.00
+mike_larsen     +45     38          112.50      24          157.50
+Dukka           +45     2           381.00      1           426.00
+tntdatalab      +45     19          177.00      8           222.00
+
+
+Submissions:
+--------------------------------------------------------------------------------------------
+Submission  User            Result      Score(#correct) New Result      New score(#correct)
+--------------------------------------------------------------------------------------------
+1301159887  dustin_e_homan  Wrong       15(2)           Wrong           30(3)
+1301159844  dustin_e_homan  Wrong       15(2)           Wrong           30(3)  
+1301159825  dustin_e_homan  Wrong       15(2)           Wrong           30(3)
+
+1301159868  mike_larsen     Wrong       15(2)           Accepted        60(5)
+
+1301159637  Dukka           Wrong       15(2)           Accepted        60(5)
+1301159626  Dukka           Wrong       15(2)
+1301159570  Dukka           Wrong       15(2)
+
+1301160147  tntdatalab      Wrong       15(2)
+1301160133  tntdatalab      Wrong       15(2)
+1301159564  tntdatalab      Wrong       15(2)           Accepted        60(5)
+1301159494  tntdatalab      Wrong       15(2)
+
+1301159816  smundra42       Wrong       15(2)           Wrong/Timeout   15(2)
+
+1301159683  Pyrobob         Wrong       15(1)           Wrong           15(1)
+
+1301159773  mattofthekidd   Wrong       0(1)            Wrong           0(1)
+1301159768  mattofthekidd   Wrong       0(1)            Wrong           0(1)
+1301159762  mattofthekidd   Wrong       0(1)            Wrong           0(1)
+
+1301159403  tyler_bowles    Timeout     0(0)
+
+1301159761  samwisedumb     Accepted (moderator test)
+1301129059  Dragonman117    Wrong (contest setup)
+1301128589  Dragonman117    Wrong (contest setup)
